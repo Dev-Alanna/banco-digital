@@ -1,4 +1,4 @@
-\# Banco Digital
+\ Banco Digital
 
 
 
@@ -6,7 +6,7 @@ Projeto de estudo em Java: um banco digital simples que roda no terminal. Feito 
 
 
 
-\## O que faz
+\ O que faz
 
 
 
@@ -22,7 +22,7 @@ Projeto de estudo em Java: um banco digital simples que roda no terminal. Feito 
 
 
 
-\## Como rodar
+\ Como rodar
 
 
 
@@ -40,7 +40,7 @@ Observação: use vírgula para valores decimais (exemplo: 50,5).
 
 
 
-\## Estrutura
+\ Estrutura
 
 
 
@@ -50,7 +50,7 @@ Observação: use vírgula para valores decimais (exemplo: 50,5).
 
 
 
-\## Conceitos praticados
+\ Conceitos praticados
 
 
 
@@ -58,7 +58,7 @@ Classes e objetos, encapsulamento (atributos `private`), métodos, condicionais,
 
 
 
-\## Próximos passos
+\ Próximos passos
 
 
 
